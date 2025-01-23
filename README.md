@@ -134,7 +134,7 @@ you can get support through the following means:
     statistical theory)
 3.  **Bayesian STVC model**: <https://chaosong.blog/bayesian-stvc/>
 
-Copyright **@HEOA-West China Health and Medical Geography Research
+Copyright **©HEOA-West China Health and Medical Geography Research
 Group**
 
 If you are a WeChat user, you are welcome to scan the QR code to follow
