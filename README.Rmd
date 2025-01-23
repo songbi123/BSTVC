@@ -143,7 +143,7 @@ you can get support through the following means:
 2.  **Email contact**: [tangxxxxt\@163.com](mailto:tangxxxxt@163.com)(Tang Xianteng, related to R package usage); [chaosong.gis\@gmail.com](mailto:chaosong.gis@gmail.com) (Song Chao, related to statistical theory)
 3.  **Bayesian STVC model**: <https://chaosong.blog/bayesian-stvc/>
 
-Copyright **@HEOA-West China Health and Medical Geography Research Group**
+Copyright **©HEOA-West China Health and Medical Geography Research Group**
 
 If you are a WeChat user, you are welcome to scan the QR code to follow our research group's official account: **HealthGeography**
 
