@@ -119,6 +119,10 @@ guides, as follows:
 In the near future, we will continue to refine our documentation and
 provide new help documents.
 
+## Changelog
+
+View detailed changelog: [CHANGELOG.md](./CHANGELOG.md)
+
 ## Contact
 
 We welcome and encourage user contributions, including reporting issues,
